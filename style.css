@@ -171,7 +171,7 @@ a{
 #pics{
 	margin-top:clamp(30px,10%,100px);
 	position:relative;
-	border:1px solid white;
+	/*border:1px solid white;*/
 	max-width:1871px;
 	width:100%;
 	left:50%;
